@@ -1,6 +1,2 @@
 dfdklfd;sakf;ldsf
-
-fdsafsaffsd
-
-
-dadsfafds
+this my 1st git commit
